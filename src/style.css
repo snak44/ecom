@@ -1,0 +1,156 @@
+body{
+    background-color: white;
+    padding: 10px 100px;
+}
+
+#top-piture{
+   width: 300px;
+
+
+}
+
+.image-wrapper{
+
+    background-color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.menu-rapper{
+    text-align: center;
+}
+
+.mylink{
+
+    font-size: 25px;
+    padding: 4px;
+    text-align: right;
+    color: black;
+}
+
+.mylink:hover{
+    background-color: #36c9c4 ;
+}
+.info{
+    text-align: center;
+    background: url("store/img/wood.png")no-repeat border-box black;
+    background-size: cover;
+
+}
+
+.product{
+
+    width: 500px;
+    text-align: center;
+    border: solid 10px black;
+
+
+}
+
+
+button{
+    width: 100px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    border: solid 1px black;
+
+}
+
+button:hover{
+    background-color: #36c9c4 ;
+}
+.List{
+    text-align: left;
+    text-align-all: left;
+    flex: 111px;
+    margin-bottom: 100px;
+    height: 600px;
+    border: 10px black;
+
+}
+
+
+.butt{
+    text-align: center;
+}
+
+
+.homepage{
+    background: url("store/img/lonney.png")no-repeat border-box black;
+    background-size: cover;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    height: 100%;
+    text-align: center;
+    padding-bottom: 350px;
+
+}
+
+
+.snak{
+    width: 300px;
+    text-align: center;
+
+}
+
+.yeti{
+text-align: center;
+    background: url("store/img/wood.png")no-repeat border-box black;
+    background-size: cover;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-right: 100px;
+
+}
+.cone{
+    text-align: center;
+
+
+}
+
+.div{
+    background-size: 100%;
+}
+.mom{
+    padding-bottom: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
+    text-align: match-parent;
+}
+.myLink{
+
+
+
+}
+.bar{
+    border: solid 10px black;
+
+    background: white;
+
+    width: 50%;
+    height: 500px;
+    text-align: left;
+
+    padding-left: 100px;
+}
+
+.butt{
+    margin-bottom: 200px;
+
+}
+
+.add{
+    width: 100px;
+
+    text-align: left;
+    color: darkslateblue;
+}
+.mocha{
+    color: orangered;
+}
+.slave{
+    color: black;
+}
+
